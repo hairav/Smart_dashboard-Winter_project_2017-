@@ -1,0 +1,3 @@
+Smart Dashboard
+
+In today's IoT driven world, we still lack a robust accident prevention technology. So with the motivation of preventing accidents we a team of six sophomores Keshav Kumar, Aman Ahlawat, Vikas Baghel, Amit Ranjan, Animesh Pathak and Hriddhi Ghosh under the aegis of Robotics Club IIT (BHU) are developing a Smart Dashboard. It will be capable of detecting accidents, rash driving and activeness of the driver. Based on these detections it will perform best suitable action eg - It will call the nearest hospital in case a crash is detected.
