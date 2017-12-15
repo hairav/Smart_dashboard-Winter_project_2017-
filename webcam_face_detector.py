@@ -1,8 +1,8 @@
 import numpy as np
 import cv2
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
-eye_cascade = cv2.CascadeClassifier('haarcascade_lefteye_2splits.xml')
-cap = cv2.VideoCapture(1)
+eye_cascade = cv2.CascadeClassifier('haarcascade_eye.xml')
+cap = cv2.VideoCapture(0)
 while True:
     ret, img = cap.read()
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
